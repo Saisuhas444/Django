@@ -22,4 +22,4 @@ It showcases projects, skills, and experience in a structured way with a modern 
 
 ---
 
-## 📂 Project Structure
+
